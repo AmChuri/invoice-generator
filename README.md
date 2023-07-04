@@ -33,4 +33,4 @@ npm start / npm run build
 
 ### Meta
 
-Amay Churi – [LinkedIn.com](https://linkedin.com/amaychuri)
+Amay Churi – [LinkedIn.com](https://www.linkedin.com/in/amaychuri/)
